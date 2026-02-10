@@ -28,3 +28,5 @@ def f3(v1, v4):
         print("You win!")
     else:
         print("You lose!")
+
+f3(f1(), f2())
