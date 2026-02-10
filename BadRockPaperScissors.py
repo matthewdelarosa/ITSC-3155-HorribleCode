@@ -14,6 +14,7 @@ def f2():
     v4 = "Paper"
   else:
     v4 = "Scissors"
+  print("Computer chose: " + v4)
   return v4
 
 def f3(v1, v4):
